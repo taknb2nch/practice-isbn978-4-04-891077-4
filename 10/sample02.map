@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "sample02.js",
+  "sourceRoot": "",
+  "sources": [
+    "sample02.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,CAAA,CAA+C,KAAvC,CAAuC,CAA/C,IAAA;CACC,GAAA,IAAA;CAAA,EAAO,CAAP,CAAA,CAAO,EAAQ,MAAR;CAAP,EACc,CAAd,CAAA,GAAO;CAEP,IAAA,MAAO;CAJR,EAA+C;CAA/C"
+}
